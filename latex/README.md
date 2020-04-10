@@ -1,4 +1,4 @@
-### 数学公式与Markdown Math
+## 数学公式与Markdown Math
 
 在Markdown中使用LaTex分为两种方式
 
