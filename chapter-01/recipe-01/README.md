@@ -1,4 +1,4 @@
-### 在浏览器中预览Markdown文件
+### 设置浏览器支持预览Markdown文件
 
 我们可以通过网页浏览器预览本地或git网站(例如github)上的Markdown文件，
 像github网站，本身就支持对Markdown文件的预览，但是并不支持LaTex公式的渲染，
