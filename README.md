@@ -9,6 +9,7 @@
 ### [Chapter2: 基本语法](chapter-02/README.md)
 
 - [1. 标题](chapter-02/recipe-01/README.md)
+- [2. 段落](chapter-02/recipe-02/README.md)
 
 ### [Chapter3: 使用数学公式](chapter-03/README.md)
 
