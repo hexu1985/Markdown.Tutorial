@@ -6,4 +6,5 @@
 - [4. 区块](recipe-04/README.md)
 - [5. 代码](recipe-05/README.md)
 - [6. 链接](recipe-06/README.md)
+- [7. 图片](recipe-07/README.md)
 
