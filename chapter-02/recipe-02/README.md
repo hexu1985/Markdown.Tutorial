@@ -1,4 +1,6 @@
-### 段落
+### 段落格式
+
+#### 段落
 
 Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车。
 
@@ -87,6 +89,12 @@ RUNOOB.COM
 GOOGLE.COM
 ~~BAIDU.COM~~
 ```
+
+显示效果如下所示：
+
+RUNOOB.COM  
+GOOGLE.COM  
+~~BAIDU.COM~~
 
 #### 下划线
 
