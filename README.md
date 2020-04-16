@@ -11,6 +11,7 @@
 - [1. 标题](chapter-02/recipe-01/README.md)
 - [2. 段落格式](chapter-02/recipe-02/README.md)
 - [3. 列表](chapter-02/recipe-03/README.md)
+- [4. 区块](chapter-02/recipe-04/README.md)
 
 ### [Chapter3: 使用数学公式](chapter-03/README.md)
 
