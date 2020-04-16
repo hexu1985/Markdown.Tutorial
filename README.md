@@ -13,6 +13,7 @@
 - [3. 列表](chapter-02/recipe-03/README.md)
 - [4. 区块](chapter-02/recipe-04/README.md)
 - [5. 代码](chapter-02/recipe-05/README.md)
+- [6. 链接](chapter-02/recipe-06/README.md)
 
 ### [Chapter3: 使用数学公式](chapter-03/README.md)
 
