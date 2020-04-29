@@ -16,6 +16,7 @@
 - [6. 链接](chapter-02/recipe-06/README.md)
 - [7. 图片](chapter-02/recipe-07/README.md)
 - [8. 表格](chapter-02/recipe-08/README.md)
+- [9. 支持的HTML元素](chapter-02/recipe-09/README.md)
 
 ### [Chapter3: 使用数学公式](chapter-03/README.md)
 
