@@ -33,3 +33,19 @@ $$\mathcal{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}$$
 调用方法是用数学字体样式命令`\mathcal`, 例如：
 
 $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
+
+#### 二元运算符
+
+
+| 运算符     | 指令       | 运算符    | 指令      | 运算符     | 指令       | 运算符             | 指令               |
+| :--------- | :--------- | :-------- | :-------- | :--------- | :--------- | :----------------- | :----------------- |
+| $\pm$      | `\pm`      | $\cap$    | `\cap`    | $\circ$    | `\circr`   | $\bigcirc$         | `\bigcirc`         |
+| $\mp$      | `\mp`      | $\cup$    | `\cup`    | $\bullet$  | `\bullet`  | $\Box$             | `\Box`             |
+| $\times$   | `\times`   | $\uplus$  | `\uplus`  | $\diamond$ | `\diamond` | $\Diamond$         | `\Diamond`         |
+| $\div$     | `\div`     | $\sqcap$  | `\sqcap`  | $\lhd$     | `\lhd`     | $\bigtriangleup$   | `\bigtriangleup`   |
+| $\cdot$    | `\cdot`    | $\sqcup$  | `\sqcup`  | $\rhd$     | `\rhd`     | $\bigtriangledown$ | `\bigtriangledown` |
+| $\ast$     | `\ast`     | $\vee$    | `\vee`    | $\unlhd$   | `\unlhd`   | $\triangleleft$    | `\triangleleft`    |
+| $\star$    | `\star`    | $\wedge$  | `\wedge`  | $\unrhd$   | `\unrhd`   | $\triangleright$   | `\triangleright`   |
+| $\dagger$  | `\dagger`  | $\oplus$  | `\oplus`  | $\oslash$  | `\oslash`  | $\setminus$        | `\setminus`        |
+| $\ddagger$ | `\ddagger` | $\ominus$ | `\ominus` | $\odot$    | `\odot`    | $\wr$              | `\wr`              |
+| $\amalg$   | `\amalg`   | $\otimes$ | `\otimes` |            |            |                    |                    |
