@@ -49,3 +49,19 @@ $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 | $\dagger$  | `\dagger`  | $\oplus$  | `\oplus`  | $\oslash$  | `\oslash`  | $\setminus$        | `\setminus`        |
 | $\ddagger$ | `\ddagger` | $\ominus$ | `\ominus` | $\odot$    | `\odot`    | $\wr$              | `\wr`              |
 | $\amalg$   | `\amalg`   | $\otimes$ | `\otimes` |            |            |                    |                    |
+
+#### 关系运算符
+
+| 运算符        | 指令          | 运算符        | 指令          | 运算符      | 指令        | 运算符      | 指令        |
+| :------------ | :------------ | :------------ | :------------ | :---------- | :---------- | :---------- | :---------- |
+| $\le$         | `\le` `\leq`  | $\ge$         | `\ge` `\geq`  | $\neq$      | `\neq`      | $\sim$      | `\sim`      | 
+| $\ll$         | `\ll`         | $\gg$         | `\gg`         | $\doteq$    | `\doteq`    | $\simeq$    | `\simeq`    |
+| $\subset$     | `\subset`     | $\supset$     | `\supset`     | $\approx$   | `\approx`   | $\asymp$    | `\asymp`    |
+| $\subseteq$   | `\subseteq`   | $\supseteq$   | `\supseteq`   | $\cong$     | `\cong`     | $\smile$    | `\smile`    |
+| $\sqsubset$   | `\sqsubset`   | $\sqsupset$   | `\sqsupset`   | $\equiv$    | `\equiv`    | $\frown$    | `\frown`    |
+| $\sqsubseteq$ | `\sqsubseteq` | $\sqsupseteq$ | `\sqsupseteq` | $\propto$   | `\propto`   | $\bowtie$   | `\bowtie`   |
+| $\in$         | `\in`         | $\ni$         | `\ni`         | $\prec$     | `\prec`     | $\succ$     | `\succ`     |
+| $\vdash$      | `\vdash`      | $\dashv$      | `\dashv`      | $\preceq$   | `\preceq`   | $\succeq$   | `\succeq`   |
+| $\models$     | `\models`     | $\perp$       | `\perp`       | $\parallel$ | `\parallel` | $\mid$      | `\mid`      |
+
+#### 关系运算符的否定
