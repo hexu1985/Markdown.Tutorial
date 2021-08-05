@@ -65,3 +65,14 @@ $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 | $\models$     | `\models`     | $\perp$       | `\perp`       | $\parallel$ | `\parallel` | $\mid$      | `\mid`      |
 
 #### 关系运算符的否定
+
+| 运算符            | 指令              | 运算符            | 指令              | 运算符        | 指令          |
+| :---------------- | :---------------- | :---------------- | :---------------- | :------------ | :------------ |
+| $\not<$           | `\not<`           | $\not>$           | `\not>`           | $\not=$       | `\not=`       |
+| $\not\le$         | `\not\le`         | $\not\ge$         | `\not\ge`         | $\not\equiv$  | `\not\equiv`  |
+| $\not\prec$       | `\not\prec`       | $\not\succ$       | `\not\succ`       | $\not\sim$    | `\not\sim`    |
+| $\not\preceq$     | `\not\preceq`     | $\not\succeq$     | `\not\succeq`     | $\not\simeq$  | `\not\simeq`  |
+| $\not\subset$     | `\not\subset`     | $\not\supset$     | `\not\supset`     | $\not\approx$ | `\not\approx` |
+| $\not\subseteq$   | `\not\subseteq`   | $\not\supseteq$   | `\not\supseteq`   | $\not\cong$   | `\not\cong`   |
+| $\not\sqsubseteq$ | `\not\sqsubseteq` | $\not\sqsupseteq$ | `\not\sqsupseteq` | $\not\asymp$  | `\not\asymp`  |
+| $\not\in$         | `\not\in`         | $\notin$          | `\notin`          |               |               |
