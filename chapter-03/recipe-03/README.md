@@ -90,6 +90,6 @@ $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 | $\mapsto$            | `\mapsto`            | $\longmapsto$         | `\longmapsto`         | $\nearrow$     | `\nearrow`     |
 | $\hookleftarrow$     | `\hookleftarrow`     | $\hookrightarrow$     | `\hookrightarrow`     | $\searrow$     | `\searrow`     |
 | $\leftharpoonup$     | `\leftharpoonup`     | $\rightharpoonup$     | `\rightharpoonup`     | $\swarrow$     | `\swarrow`     |
-| $\leftharpoondown$​   | `\leftharpoondown`   | $\rightharpoondown$   | `\rightharpoondown`   | $\nwarrow$     | `\nwarrow`     |
-| $\rightleftharpoons$​ | `\rightleftharpoons` | $\leftrightharpoons$​  | `\leftrightharpoons`  | $\leadsto$     | `\leadsto`     |
+| $\leftharpoondown$   | `\leftharpoondown`   | $\rightharpoondown$   | `\rightharpoondown`   | $\nwarrow$     | `\nwarrow`     |
+| $\rightleftharpoons$ | `\rightleftharpoons` | $\leftrightharpoons$  | `\leftrightharpoons`  | $\leadsto$     | `\leadsto`     |
 
