@@ -76,3 +76,20 @@ $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 | $\not\subseteq$   | `\not\subseteq`   | $\not\supseteq$   | `\not\supseteq`   | $\not\cong$   | `\not\cong`   |
 | $\not\sqsubseteq$ | `\not\sqsubseteq` | $\not\sqsupseteq$ | `\not\sqsupseteq` | $\not\asymp$  | `\not\asymp`  |
 | $\not\in$         | `\not\in`         | $\notin$          | `\notin`          |               |               |
+
+#### 箭头与指针
+
+| 运算符               | 指令                 | 运算符                | 指令                  | 运算符         | 指令           |
+| :------------------- | :------------------- | :-------------------- | :-------------------- | :------------- | :------------- |
+| $\leftarrow$         | `\leftarrow \gets`   | $\longleftarrow$      | `\longleftarrow`      | $\uparrow$     | `\uparrow`     |
+| $\Leftarrow$         | `\Leftarrow`         | $\Longleftarrow$      | `\Longleftarrow`      | $\Uparrow$     | `\Uparrow`     |
+| $\rightarrow$        | `\rightarrow \to`    | $\longrightarrow$     | `\longrightarrow`     | $\downarrow$   | `\downarrow`   |
+| $\Rightarrow$        | `\Rightarrow`        | $\Longrightarrow$     | `\Longrightarrow`     | $\Downarrow$   | `\Downarrow`   |
+| $\leftrightarrow$    | `\leftrightarrow`    | $\longleftrightarrow$ | `\longleftrightarrow` | $\updownarrow$ | `\updownarrow` |
+| $\Leftrightarrow$    | `\Leftrightarrow`    | $\Longleftrightarrow$ | `\Longleftrightarrow` | $\Updownarrow$ | `\Updownarrow` |
+| $\mapsto$            | `\mapsto`            | $\longmapsto$         | `\longmapsto`         | $\nearrow$     | `\nearrow`     |
+| $\hookleftarrow$     | `\hookleftarrow`     | $\hookrightarrow$     | `\hookrightarrow`     | $\searrow$     | `\searrow`     |
+| $\leftharpoonup$     | `\leftharpoonup`     | $\rightharpoonup$     | `\rightharpoonup`     | $\swarrow$     | `\swarrow`     |
+| $\leftharpoondown$​   | `\leftharpoondown`   | $\rightharpoondown$   | `\rightharpoondown`   | $\nwarrow$     | `\nwarrow`     |
+| $\rightleftharpoons$​ | `\rightleftharpoons` | $\leftrightharpoons$​  | `\leftrightharpoons`  | $\leadsto$     | `\leadsto`     |
+
