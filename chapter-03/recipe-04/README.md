@@ -22,10 +22,13 @@
 | 上弧                 | `\overset{\frown} {AB}`                                      | $\overset{\frown} {AB}$                                      |
 | 上划线               | `\overline{h i j}`                                           | $\overline{h i j}$                                           |
 | 下划线               | `\underline{k l m}`                                          | $\underline{k l m}$                                          |
+| 公式上下的直线       | `\overline{\overline{a}^2 + \underline{xy}+\overline{\overline{z}}}` | $\overline{\overline{a}^2 + \underline{xy}+\overline{\overline{z}}}$ |
 | 上括号               | `\overbrace{1+2+\cdots+100}`                                 | $\overbrace{1+2+\cdots+100}$                                 |
 | 上括号               | `\begin{matrix} 5050 \\ \overbrace{1+2+\cdots+100 } \end{matrix}` | $\begin{matrix} 5050 \\ \overbrace{1+2+\cdots+100 } \end{matrix}$ |
 | 下括号               | `\underbrace{a+b+\cdots+z}`                                  | $\underbrace{a+b+\cdots+z}$                                  |
 | 下括号               | `\begin{matrix} \underbrace{ a+b+\cdots+z} \\ 26 \end{matrix}` | $\begin{matrix} \underbrace{ a+b+\cdots+z} \\ 26 \end{matrix}$ |
+| 公式上下的括号       | `\overbrace{a + \underbrace{b+c} +d}`                        | $\overbrace{a + \underbrace{b+c} +d}$                        |
+| 公式上下的括号       | `\underbrace{a + \overbrace{b + \cdots + y}^{123} + z}_{\alpha\beta\gamma}` | $\underbrace{a + \overbrace{b + \cdots + y}^{123} + z}_{\alpha\beta\gamma}$ |
 | 求和                 | `\sum\limits_{k=1}^N k^2`                                    | $\sum\limits_{k=1}^N k^2$                                    |
 | 求和                 | `\sum_{k=1}^N k^2`                                           | $\sum_{k=1}^N k^2$                                           |
 | 求和                 | `\begin{matrix} \sum_{k=1}^N k^2\end{matrix}`                | $\begin{matrix} \sum_{k=1}^N k^2\end{matrix}$                |
