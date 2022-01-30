@@ -62,3 +62,122 @@
 | 大型分数（嵌套）   | `\cfrac{2}{c + \cfrac{2}{d + \cfrac{2}{4}}} = a`             | $\cfrac{2}{c + \cfrac{2}{d + \cfrac{2}{4}}} = a$             |
 | 大型分数（不嵌套） | `\dfrac{2}{4} = 0.5 \qquad \dfrac{2}{c + \dfrac{2}{d + \dfrac{2}{4}}} = a` | $\dfrac{2}{4} = 0.5 \qquad \dfrac{2}{c + \dfrac{2}{d + \dfrac{2}{4}}} = a$ |
 
+#### 二项式系数
+
+| 功能           | 语法                                                  | 效果                                                  |
+| -------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 二项式系数     | `\binom{n}{r} = \binom{n}{n-r} = C^n_r = C^n_{n-r}`   | $\binom{n}{r} = \binom{n}{n-r} = C^n_r = C^n_{n-r}$   |
+| 小型二项式系数 | `\tbinom{n}{r} = \tbinom{n}{n-r} = C^n_r = C^n_{n-r}` | $\tbinom{n}{r} = \tbinom{n}{n-r} = C^n_r = C^n_{n-r}$ |
+| 大型二项式系数 | `\dbinom{n}{r} = \dbinom{n}{n-r} = C^n_r = C^n_{n-r}` | $\dbinom{n}{r} = \dbinom{n}{n-r} = C^n_r = C^n_{n-r}$ |
+
+#### 矩阵
+
+| 功能     | 语法                                                         | 效果                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 矩阵     | `\begin{matrix} x & y \\ z & v \end{matrix}`                 | $\begin{matrix} x & y \\ z & v \end{matrix}$                 |
+| 行列式   | `\begin{vmatrix} x & y \\ z & v \end{vmatrix}`               | $\begin{vmatrix} x & y \\ z & v \end{vmatrix}$               |
+| 范数     | `\begin{Vmatrix} x & y \\ z & v \end{Vmatrix}`               | $\begin{Vmatrix} x & y \\ z & v \end{Vmatrix}$               |
+| 矩阵     | `\begin{bmatrix} 0 & \cdots & 0 \\ \vdots & \ddots & \vdots \\ 0 & \cdots & 0 \end{bmatrix}` | $\begin{bmatrix} 0 & \cdots & 0 \\ \vdots & \ddots & \vdots \\ 0 & \cdots & 0 \end{bmatrix}$ |
+| 矩阵     | `\begin{Bmatrix} x & y \\ z & v \end{Bmatrix}`               | $\begin{Bmatrix} x & y \\ z & v \end{Bmatrix}$               |
+| 矩阵     | `\begin{pmatrix} x & y \\ z & v\end{pmatrix}`                | $\begin{pmatrix} x & y \\ z & v\end{pmatrix}$                |
+| 小型矩阵 | `\bigl( \begin{smallmatrix} a & b \\ c & d \end{smallmatrix} \bigr)` | $\bigl( \begin{smallmatrix} a & b \\ c & d \end{smallmatrix} \bigr)$ |
+
+
+
+```
+\begin{matrix}
+x & y \\
+z & v
+\end{matrix}
+```
+
+$$
+\begin{matrix}x & y \\z & v\end{matrix}
+$$
+
+```
+\begin{vmatrix}
+x & y \\
+z & v
+\end{vmatrix}
+```
+
+$$
+\begin{vmatrix}
+x & y \\
+z & v
+\end{vmatrix}
+$$
+
+```
+\begin{Vmatrix}
+x & y \\
+z & v
+\end{Vmatrix}
+```
+
+$$
+\begin{Vmatrix}
+x & y \\
+z & v
+\end{Vmatrix}
+$$
+
+```
+\begin{bmatrix}
+0      & \cdots & 0      \\
+\vdots & \ddots & \vdots \\
+0      & \cdots & 0 
+\end{bmatrix}
+```
+
+$$
+\begin{bmatrix}
+0      & \cdots & 0      \\
+\vdots & \ddots & \vdots \\
+0      & \cdots & 0 
+\end{bmatrix}
+$$
+
+```
+\begin{Bmatrix}
+x & y \\
+z & v
+\end{Bmatrix}
+```
+
+$$
+\begin{Bmatrix}
+x & y \\
+z & v
+\end{Bmatrix}
+$$
+
+```
+\begin{pmatrix}
+x & y \\
+z & v
+\end{pmatrix}
+```
+
+$$
+\begin{pmatrix}
+x & y \\
+z & v
+\end{pmatrix}
+$$
+
+```
+\bigl( \begin{smallmatrix}
+a & b \\
+c & d
+\end{smallmatrix} \bigr)
+```
+
+$$
+\bigl( \begin{smallmatrix}
+a & b \\
+c & d
+\end{smallmatrix} \bigr)
+$$
+
