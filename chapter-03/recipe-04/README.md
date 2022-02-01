@@ -183,6 +183,20 @@ $$
 
 #### 多行公式
 
+| 功能               | 语法                                                         | 效果                                                         |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 条件定义           | `f(n) = \begin{cases} n/2, & \mbox{if }n \mbox{ is even} \\ 3n+1, & \mbox{if }n \mbox{ is odd} \end{cases}` | $f(n) = \begin{cases} n/2, & \mbox{if }n \mbox{ is even} \\ 3n+1, & \mbox{if }n \mbox{ is odd} \end{cases}$ |
+| 多行等式           | `\begin{align} f(x) & = (m+n)^2 \\ & = m^2 + 2mn + n^2 \\ \end{align}` | $\begin{align} f(x) & = (m+n)^2 \\ & = m^2 + 2mn + n^2 \\ \end{align}$ |
+| 多行等式           | `\begin{alignat}{2} f(x) & = (m-n)^2 \\ f(x) & = (-m+n)^2 \\ & = m^2 - 2mn + n^2 \\ \end{alignat}` | $\begin{alignat}{2} f(x) & = (m-n)^2 \\ f(x) & = (-m+n)^2 \\ & = m^2 - 2mn + n^2 \\ \end{alignat}$ |
+| 多行等式（左对齐） | `\begin{array}{l} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}` | $\begin{array}{l} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}$ |
+| 多行等式（右对齐） | `\begin{array}{r} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}` | $\begin{array}{r} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}$ |
+| 多行等式(居中对齐) | `\begin{array}{rcl} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}` | $\begin{array}{rcl} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}$ |
+| 多行等式(两边对齐) | `\begin{array}{lcr} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}` | $\begin{array}{lcr} z & = & a \\ f(x,y,z) & = & x + y + z \end{array}$ |
+| 方程组             | `\begin{cases} 3x + 5y + z = 0\\ 7x - 2y + 4z = 0 \\ -6x + 3y + 2z = 0 \end{cases}` | $\begin{cases} 3x + 5y + z = 0\\ 7x - 2y + 4z = 0 \\ -6x + 3y + 2z = 0 \end{cases}$ |
+| 数组               | `\begin{array}{|c|c|c|} a & b & S \\ \hline 0 & 0 & 1 \\ 0 & 1 & 1 \\ 1 & 0 & 1 \\ 1 & 1 & 0 \\ \end{array}` | $\begin{array}{|c|c|c|} a & b & S \\ \hline 0 & 0 & 1 \\ 0 & 1 & 1 \\ 1 & 0 & 1 \\ 1 & 1 & 0 \\ \end{array}$ |
+
+
+
 ##### 条件定义
 
 ```
