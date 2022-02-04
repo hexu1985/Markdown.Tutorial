@@ -93,3 +93,12 @@ $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 | $\leftharpoondown$   | `\leftharpoondown`   | $\rightharpoondown$   | `\rightharpoondown`   | $\nwarrow$     | `\nwarrow`     |
 | $\rightleftharpoons$ | `\rightleftharpoons` | $\leftrightharpoons$  | `\leftrightharpoons`  | $\leadsto$     | `\leadsto`     |
 
+#### 逻辑运算符
+
+| 运算符        | 指令                | 运算符            | 指令              | 运算符   | 指令     |
+| :------------ | :------------------ | :---------------- | :---------------- | :------- | :------- |
+| $\land$       | `\and \land \wedge` | $\bigwedge$       | `\bigwedge`       | $\lnot$  | `\lnot`  |
+| $\lor$        | `\or \lor \vee`     | $\bigvee$         | `\bigvee`         | $\oplus$ | `\oplus` |
+| $\forall$     | `\forall`           | $\exists$         | `\exists`         | $=$      | `=`      |
+| $\rightarrow$ | `\rightarrow \to`   | $\leftrightarrow$ | `\leftrightarrow` | $\equiv$ | `\equiv` |
+

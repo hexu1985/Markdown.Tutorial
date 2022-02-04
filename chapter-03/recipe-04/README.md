@@ -1,5 +1,37 @@
 ### 数学公式
 
+
+
+#### 逻辑符号
+
+| 功能     | 语法                  | 效果                  |
+| -------- | --------------------- | --------------------- |
+| 逻辑与   | `p \and q`            | $p \and q$            |
+| 逻辑与   | `p \land q`           | $p \land q$           |
+| 逻辑与   | `p \wedge q`          | $p \wedge q$          |
+| 逻辑与   | `p \bigwedge q`       | $p \bigwedge q$       |
+| 逻辑或   | `p \or q`             | $p \or q$             |
+| 逻辑或   | `p \lor q`            | $p \lor q$            |
+| 逻辑或   | `p \vee q`            | $p \vee q$            |
+| 逻辑或   | `p \bigvee q`         | $p \bigvee q$         |
+| 逻辑非   | `\bar{q}`             | $\bar{q}$             |
+| 逻辑非   | `\lnot q`             | $\lnot q$             |
+| 逻辑异或 | `p \oplus q `         | $p \oplus q$          |
+| 逻辑蕴含 | `p \rightarrow q`     | $p \rightarrow q$     |
+| 逻辑等价 | `p \leftrightarrow q` | $p \leftrightarrow q$ |
+| 逻辑等价 | `p \equiv q`          | $p \equiv q$          |
+| 永真式   | `\mathbf{T}`          | $\mathbf{T}$          |
+| 矛盾式   | `\mathbf{F}`          | $\mathbf{F}$          |
+| 全称量化 | `\forall x P(x)`      | $\forall x P(x)$      |
+| 存在量化 | `\exists x P(x)`      | $\exists x P(x)$      |
+
+#### 根号
+
+| 功能                 | 语法                                                         | 效果                                                         |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 根号                 | `\sqrt{2}`                                                   | $\sqrt{2}$                                                   |
+| 根号                 | `\sqrt[n]{2}`                                                | $\sqrt[n]{x}$                                                |
+
 #### 上标、下标及积分等
 
 | 功能                 | 语法                                                         | 效果                                                         |
