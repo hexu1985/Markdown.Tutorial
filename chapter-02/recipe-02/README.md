@@ -116,6 +116,10 @@ GOOGLE.COM
 这是一个注脚[^footnote]的样例。
 
 这是第二个注脚[^footnote2]的样例。
+
+[^footnote]: 注脚一
+
+[^footnote2]: 注脚二
 ```
 
 显示效果如下所示：
@@ -124,3 +128,6 @@ GOOGLE.COM
 
 这是第二个注脚[^footnote2]的样例。
 
+[^footnote]: 注脚一
+
+[^footnote2]: 注脚二
