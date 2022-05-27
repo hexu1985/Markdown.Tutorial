@@ -82,6 +82,27 @@ $\mathbbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 备注: {花括号}内只能使用拉丁字母和数序, 不能使用希腊字母如\alpha等.
 
+#### 斜粗体
+
+语法
+
+`\boldsymbol{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+
+效果
+
+$\boldsymbol{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+备注: 使用\boldsymbol{}可以加粗所有合法的符合.
+
+#### 斜体数字
+
+语法
+
+`\mathit{0123456789}`
+
+效果
+
+$\mathit{0123456789}$
 
 #### 声调/变音符号
 
