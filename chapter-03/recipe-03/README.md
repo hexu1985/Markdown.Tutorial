@@ -34,6 +34,16 @@ $$\mathcal{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}$$
 
 $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 
+#### 声调/变音符号
+
+| 字母        | 指令        | 字母        | 指令        | 字母        | 指令         |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ------------ |
+| $\acute{a}$ | `\acute{a}` | $\grave{a}$ | `\grave{a}` | $\hat{a}$   | `\hat{a}`    |
+| $\tilde{a}$ | `\tilde{a}` | $\breve{a}$ | `\breve{a}` | $\check{a}$ | `$\check{a}` |
+| $\bar{a}$   | `\bar{a}`   | $\ddot{a}$  | `\ddot{a}`  | $\dot{a}$   | `\dot{a}`    |
+
+
+
 #### 二元运算符
 
 
