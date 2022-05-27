@@ -2,7 +2,7 @@
 
 
 
-#### 逻辑符号
+#### 逻辑运算公式
 
 | 功能     | 语法                  | 效果                  |
 | -------- | --------------------- | --------------------- |
@@ -25,12 +25,25 @@
 | 全称量化 | `\forall x P(x)`      | $\forall x P(x)$      |
 | 存在量化 | `\exists x P(x)`      | $\exists x P(x)$      |
 
-#### 根号
+#### 根式
 
 | 功能                 | 语法                                                         | 效果                                                         |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 根号                 | `\sqrt{2}`                                                   | $\sqrt{2}$                                                   |
 | 根号                 | `\sqrt[n]{2}`                                                | $\sqrt[n]{x}$                                                |
+
+#### 微分公式
+
+| 功能             | 语法                                                         | 效果                                                         |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 哈密顿算子       | `\nabla f`                                                   | $\nabla f$                                                   |
+| 梯度向量         | `\nabla f = \cfrac{\partial f}{\partial x} \boldsymbol{i} + \cfrac{\partial f}{\partial y} \boldsymbol{j}` | $\nabla f = \cfrac{\partial f}{\partial x} \boldsymbol{i} + \cfrac{\partial f}{\partial y} \boldsymbol{j}$ |
+| 偏微分           | `\partial x`                                                 | $\partial x$                                                 |
+| 微分             | `dx`                                                         | $dx$                                                         |
+| 导数（牛顿）     | `\dot x`                                                     | $\dot x$                                                     |
+| 二阶导数（牛顿） | `\ddot y`                                                    | $\ddot y$                                                    |
+| 导数（莱布尼茨） | `$\cfrac{dy}{dx}`                                            | $\cfrac{dy}{dx}$                                             |
+| 二阶混合偏导数   | `\cfrac{\partial ^2 y}{\partial x_1 \partial x_2}`           | $\cfrac{\partial ^2 y}{\partial x_1 \partial x_2}$           |
 
 #### 上标、下标及积分等
 
