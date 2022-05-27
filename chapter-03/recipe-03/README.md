@@ -23,6 +23,28 @@
 | $\Delta$ | `\Delta` | $\Xi$     | `\Xi`     | $\Upsilon$ | `\Upsilon` | $\Omega$ | `\Omega` |
 | $\Theta$ | `\Theta` | $\Pi$     | `\Pi`     | $\Phi$     | `\Phi`     |          |          |
 
+#### 粗体希腊字母
+
+小写字母
+
+| 字母          | 指令          | 字母        | 指令        | 字母        | 指令        | 字母       | 指令       |
+| :------------ | :------------ | :---------- | :---------- | :---------- | :---------- | :--------- | :--------- |
+| $\boldsymbol{\alpha}$      | `\boldsymbol{\alpha}`      | $\boldsymbol{\theta}$    | `\boldsymbol{\theta}`    | $\boldsymbol{o}$         | `\boldsymbol{o}`         | $\boldsymbol{\tau}$     | `\boldsymbol{\tau}`     |
+| $\boldsymbol{\beta}$       | `\boldsymbol{\beta}`       | $\boldsymbol{\vartheta}$ | `\boldsymbol{\vartheta}` | $\boldsymbol{\pi}$       | `\boldsymbol{\pi}`       | $\boldsymbol{\upsilon}$ | `\boldsymbol{\upsilon}` |
+| $\boldsymbol{\gamma}$      | `\boldsymbol{\gamma}`      | $\boldsymbol{\iota}$     | `\boldsymbol{\iota}`     | $\boldsymbol{\varpi}$    | `\boldsymbol{\varpi}`    | $\boldsymbol{\phi}$     | `\boldsymbol{\phi}`     |
+| $\boldsymbol{\delta}$      | `\boldsymbol{\delta}`      | $\boldsymbol{\kappa}$    | `\boldsymbol{\kappa}`    | $\boldsymbol{\rho}$      | `\boldsymbol{\rho}`      | $\boldsymbol{\varphi}$  | `\boldsymbol{\varphi}`  |
+| $\boldsymbol{\epsilon}$    | `\boldsymbol{\epsilon}`    | $\boldsymbol{\lambda}$   | `\boldsymbol{\lambda}`   | $\boldsymbol{\varrho}$   | `\boldsymbol{\varrho}`   | $\boldsymbol{\chi}$     | `\boldsymbol{\chi}`     |
+| $\boldsymbol{\varepsilon}$ | `\boldsymbol{\varepsilon}` | $\boldsymbol{\mu}$       | `\boldsymbol{\mu}`       | $\boldsymbol{\sigma}$    | `\boldsymbol{\sigma}`    | $\boldsymbol{\psi}$     | `\boldsymbol{\psi}`     |
+| $\boldsymbol{\zeta}$       | `\boldsymbol{\zeta}`       | $\boldsymbol{\nu}$       | `\boldsymbol{\nu}`       | $\boldsymbol{\varsigma}$ | `\boldsymbol{\varsigma}` | $\boldsymbol{\omega}$   | `\boldsymbol{\omega}`   |
+| $\boldsymbol{\eta}$        | `\boldsymbol{\eta}`        | $\boldsymbol{\xi}$       | `\boldsymbol{\xi}`       |             |             |            |            |
+
+大写字母
+
+| 字母     | 指令     | 字母      | 指令      | 字母       | 指令       | 字母     | 指令     |
+| :------- | :------- | :-------- | :-------- | :--------- | :--------- | :------- | :------- |
+| $\boldsymbol{\Gamma}$ | `\boldsymbol{\Gamma}` | $\boldsymbol{\Lambda}$ | `\boldsymbol{\Lambda}` | $\boldsymbol{\Sigma}$   | `\boldsymbol{\Sigma}`   | $\boldsymbol{\Psi}$   | `\boldsymbol{\Psi}`   |
+| $\boldsymbol{\Delta}$ | `\boldsymbol{\Delta}` | $\boldsymbol{\Xi}$     | `\boldsymbol{\Xi}`     | $\boldsymbol{\Upsilon}$ | `\boldsymbol{\Upsilon}` | $\boldsymbol{\Omega}$ | `\boldsymbol{\Omega}` |
+| $\boldsymbol{\Theta}$ | `\boldsymbol{\Theta}` | $\boldsymbol{\Pi}$     | `\boldsymbol{\Pi}`     | $\boldsymbol{\Phi}$     | `\boldsymbol{\Phi}`     |          |          |
 
 #### 花体字母
 
