@@ -34,6 +34,33 @@ $$\mathcal{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}$$
 
 $\mathcal{A,B,C, \ldots ,Z}$ : `\mathcal{A,B,C, \ldots ,Z}`
 
+#### 黑板粗体
+
+语法
+
+`\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+
+效果
+
+$\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+黑板粗体(Blackboard bold)一般用于表示数学和物理中的向量或集合的符号.
+
+备注: {花括号}中只有使用大写拉丁字母才能正常显示, 使用小写字母或数字会得到其他符号.
+
+#### 正粗体
+
+语法
+
+`\mathbbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+
+效果
+
+$\mathbbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+备注: {花括号}内只能使用拉丁字母和数序, 不能使用希腊字母如\alpha等.
+
+
 #### 声调/变音符号
 
 | 字母        | 指令        | 字母        | 指令        | 字母        | 指令         |
