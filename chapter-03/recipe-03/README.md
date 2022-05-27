@@ -74,11 +74,11 @@ $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 语法
 
-`\mathbbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+`\mathbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}`
 
 效果
 
-$\mathbbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+$\mathbf{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 备注: {花括号}内只能使用拉丁字母和数序, 不能使用希腊字母如\alpha等.
 
