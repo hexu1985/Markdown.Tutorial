@@ -104,6 +104,42 @@ $\boldsymbol{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 $\mathit{0123456789}$
 
+#### 罗马体
+
+语法
+
+`\mathrm{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}` 或 `\mbox{}` 或 `\operatorname{}`
+
+效果
+
+$\mathrm{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+备注: 罗马体可以使用数字和拉丁字母.
+
+#### 哥特体
+
+语法
+
+`\mathfrak{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+
+效果
+
+$\mathfrak{0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+备注: 哥特体可以使用数字和拉丁字母.
+
+#### 手写体
+
+语法
+
+`\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}`
+
+效果
+
+$\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+备注: 手写体可以使用数字和拉丁字母.
+
 #### 声调/变音符号
 
 | 字母        | 指令        | 字母        | 指令        | 字母        | 指令         |
@@ -112,10 +148,7 @@ $\mathit{0123456789}$
 | $\tilde{a}$ | `\tilde{a}` | $\breve{a}$ | `\breve{a}` | $\check{a}$ | `$\check{a}` |
 | $\bar{a}$   | `\bar{a}`   | $\ddot{a}$  | `\ddot{a}`  | $\dot{a}$   | `\dot{a}`    |
 
-
-
 #### 二元运算符
-
 
 | 运算符     | 指令       | 运算符    | 指令      | 运算符     | 指令       | 运算符             | 指令               |
 | :--------- | :--------- | :-------- | :-------- | :--------- | :--------- | :----------------- | :----------------- |
