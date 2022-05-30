@@ -182,3 +182,12 @@ $\mathit{0123456789}$
 | $\forall$     | `\forall`           | $\exists$         | `\exists`         | $=$      | `=`      |
 | $\rightarrow$ | `\rightarrow \to`   | $\leftrightarrow$ | `\leftrightarrow` | $\equiv$ | `\equiv` |
 
+#### 几何符号
+
+| 运算符      | 指令        | 运算符   | 指令     | 运算符      | 指令        |
+| ----------- | ----------- | -------- | -------- | ----------- | ----------- |
+| `\Diamond`  | $\Diamond$  | `\Box`   | $\Box$   | `\triangle` | $\triangle$ |
+| `\triangle` | $\triangle$ | `\angle` | $\angle$ | `\perp`     | $\perp$     |
+| `\mid`      | $\mid$      | `\nmid`  | $\nmid$  | `\|`        | $\|$        |
+| `45^\circ`  | $45^\circ$  |          |          |             |             |
+
