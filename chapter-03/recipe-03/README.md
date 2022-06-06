@@ -224,3 +224,11 @@ $\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 | `\mid`      | $\mid$      | `\nmid`  | $\nmid$  | `\|`        | $\|$        |
 | `45^\circ`  | $45^\circ$  |          |          |             |             |
 
+#### 颜色
+
+| 功能   | 语法                             | 效果                             |
+| ------ | -------------------------------- | -------------------------------- |
+| 杏黄色 | `{\color{Apricot}Apricot}`       | ${\color{Apricot}Apricot}$       |
+| 浅绿色 | `{\color{Aquamarine}Aquamarine}` | ${\color{Aquamarine}Aquamarine}$ |
+|        |                                  |                                  |
+
