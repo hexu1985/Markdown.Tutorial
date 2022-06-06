@@ -155,6 +155,17 @@ $$
 \Bigg (  \bigg [ \Big \{ \big \langle \left | \| \frac{a}{b} \| \right | \big \rangle  \Big \} \bigg ] \Bigg )
 $$
 
+#### 空格
+
+| 功能        | 语法                  | 效果                  | 宽度            |
+| ----------- | --------------------- | --------------------- | --------------- |
+| 2个quad空格 | `\alpha \qquad \beta` | $\alpha \qquad \beta$ | $2m$            |
+| quad空格    | `\alpha \quad \beta`  | $\alpha \quad \beta$  | $m$             |
+| 大空格      | `\alpha \ \beta`      | $\alpha \ \beta$      | $\cfrac{m}{3}$  |
+| 中等空格    | `\alpha \; \beta`     | $\alpha \; \beta$     | $\cfrac{2m}{7}$ |
+| 小空格      | `\alpha \, \beta`     | $\alpha \, \beta$     | $\cfrac{m}{6}$  |
+| 没有空格    | `\alpha \beta`        | $\alpha \beta$        | $0$             |
+| 紧贴        | `\alpha \! \beta`     | $\alpha \! \beta$     | $-\cfrac{m}{6}$ |
 
 #### 矩阵
 
