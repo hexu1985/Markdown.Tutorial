@@ -122,6 +122,40 @@
 | 小型二项式系数 | `\tbinom{n}{r} = \tbinom{n}{n-r} = C^n_r = C^n_{n-r}` | $\tbinom{n}{r} = \tbinom{n}{n-r} = C^n_r = C^n_{n-r}$ |
 | 大型二项式系数 | `\dbinom{n}{r} = \dbinom{n}{n-r} = C^n_r = C^n_{n-r}` | $\dbinom{n}{r} = \dbinom{n}{n-r} = C^n_r = C^n_{n-r}$ |
 
+#### 括号
+
+| 功能                         | 语法                                                 | 效果                                                 |
+| ---------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| 圆括号，小括号               | `\left( \frac{a}{b} \right)`                         | $\left( \frac{a}{b} \right)$                         |
+| 方括号，中括号               | `\left[ \frac{a}{b} \right]`                         | $\left[ \frac{a}{b} \right]$                         |
+| 花括号，大括号               | `\left\{ \frac{a}{b} \right\}`                       | $\left\{ \frac{a}{b} \right\}$                       |
+| 角括号                       | `\left \langle \frac{a}{b} \right \rangle`           | $\left \langle \frac{a}{b} \right \rangle$           |
+| 单竖线，绝对值               | `\left| \frac{a}{b} \right|`                         | $\left| \frac{a}{b} \right|$                         |
+| 双竖线，范                   | `\left \| \frac{a}{b} \right \|`                     | $\left \| \frac{a}{b} \right \|$                     |
+| 取整函数（Floor function）   | `\left \lfloor \frac{a}{b} \right \rfloor`           | $\left \lfloor \frac{a}{b} \right \rfloor$           |
+| 取顶函数（Ceiling function） | `\left \lceil \frac{a}{b} \right \rceil`             | $\left \lceil \frac{a}{b} \right \rceil$             |
+| 上下箭头                     | `\left \uparrow \frac{a}{b} \right \downarrow`       | $\left \uparrow \frac{a}{b} \right \downarrow$       |
+| 上下箭头                     | `\left \Uparrow \frac{a}{b} \right \Downarrow`       | $\left \Uparrow \frac{a}{b} \right \Downarrow$       |
+| 上下箭头                     | `\left \updownarrow \frac{a}{b} \right \Updownarrow` | $\left \updownarrow \frac{a}{b} \right \Updownarrow$ |
+| 混合括号                     | `\left [ 0, 1 \right)`                               | $\left [ 0, 1 \right)$                               |
+| 混合括号                     | `\left \langle \psi \right |`                        | $\left \langle \psi \right |$                        |
+| 单左括号                     | `\left \{ \frac{a}{b} \right .`                      | $\left \{ \frac{a}{b} \right .$                      |
+| 单右括号                     | `\left . \frac{a}{b} \right \}`                      | $\left . \frac{a}{b} \right \}$                      |
+
+备注：
+
+可以使用`\big`, `\Big`, `\bigg`, `\Bigg`控制括号的大小，比如代码
+
+```
+\Bigg (  \bigg [ \Big \{ \big \langle \left | \| \frac{a}{b} \| \right | \big \rangle  \Big \} \bigg ] \Bigg )
+```
+
+显示：
+$$
+\Bigg (  \bigg [ \Big \{ \big \langle \left | \| \frac{a}{b} \| \right | \big \rangle  \Big \} \bigg ] \Bigg )
+$$
+
+
 #### 矩阵
 
 | 功能     | 语法                                                         | 效果                                                         |
