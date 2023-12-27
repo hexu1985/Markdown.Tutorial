@@ -4,5 +4,5 @@
 - [2. 数学公式简介](recipe-02/README.md)
 - [3. 数学符号](recipe-03/README.md)
 - [4. 数学公式](recipe-04/README.md)
-- [4. 数学公式编号](recipe-05/README.md)
+- [5. 数学公式编号](recipe-05/README.md)
 
