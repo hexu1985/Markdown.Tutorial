@@ -152,15 +152,15 @@ GOOGLE.COM
 示例：在Markdown编辑器中写入以下内容
 
 ```
-&emsp;这句话前面有个tab，且它下面有两个空行
-&emsp;
-&nbsp;
+&emsp;这句话前面有个tab，且它下面有两个空行  
+&emsp;  
+&nbsp;  
 &nbsp;这句话前面有个空格，且它上面有两个空行
 ```
 
 以下是渲染效果：
 
-&emsp;这句话前面有个tab，且它下面有两个空行
-&emsp;
-&nbsp;
+&emsp;这句话前面有个tab，且它下面有两个空行  
+&emsp;  
+&nbsp;  
 &nbsp;这句话前面有个空格，且它上面有两个空行
